@@ -1,0 +1,6 @@
+import os
+
+class Config:
+    SECRET_KEY = '69871b67c266866813a0da06ab646ede'
+    SQLALCHEMY_DATABASE_URI = 'sqlite:///users.db'
+    SQLALCHEMY_TRACK_MODIFICATIONS = False
