@@ -96,6 +96,7 @@ http://127.0.0.1:5000/
 <img width="1919" height="845" alt="Screenshot 2025-05-13 031452" src="https://github.com/user-attachments/assets/90a8ee2b-aa33-400d-95dd-e913858482d6" />
 <img width="1918" height="862" alt="headlines" src="https://github.com/user-attachments/assets/9d7fa325-564c-4dd8-bdde-6f32646dada5" />
 
+
 🎯 Use Cases
 
 Business intelligence & market analysis
@@ -108,6 +109,7 @@ Academic AI/ML projects
 
 Data analytics portfolios
 
+
 🔒 Security & Best Practices
 
 API keys stored securely
@@ -116,6 +118,7 @@ Sensitive files excluded using .gitignore
 
 Clean MVC-style Flask architecture
 
+
 👩‍💻 Developed By
 
 Juily Bagate
@@ -123,6 +126,7 @@ B.Tech (Computer Science)
 Interests: AI/ML, Data Analytics, Web Development
 
 🔗 GitHub: https://github.com/juiilly
+
 
 ⭐ Future Enhancements
 
